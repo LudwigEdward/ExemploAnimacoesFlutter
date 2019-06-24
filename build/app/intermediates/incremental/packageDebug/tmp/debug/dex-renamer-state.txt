@@ -1,0 +1,4 @@
+#Sun Jun 23 20:27:07 AMT 2019
+base.0=C\:\\Users\\PC\\AndroidStudioProjects\\animation_app_finished\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
